@@ -1,7 +1,7 @@
 :root{
   --cor-de-fundo: #f1f2f3;
   --cor-de-texto:#EFE9D5;
-  --cor-texto-dois:#71BBB2;
+  --cor-texto-dois:#1b2969;
 }
 
 body {
@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #e7eaec;
   color: #fff;
   padding: 10px 20px;
   display: flex;
